@@ -1,0 +1,52 @@
+_repo: Henry-of-Ofterdingen--A-Romance._31873
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Schlegel, Friedrich von
+    aliases:
+    - Schlegel, Friedrich
+    - Schlegel, Karl Wilhelm Friedrich von
+    - Von Schlegel, Friedrich
+    birthdate: &id001 1772
+    deathdate: 1829
+    gutenberg_agent_id: '35760'
+    url: http://www.gutenberg.org/2009/agents/35760
+  - agent_name: Tieck, Ludwig
+    aliases:
+    - Tieck, Johann Ludwig
+    - Tieck, L. (Ludwig)
+    birthdate: 1773
+    deathdate: 1853
+    gutenberg_agent_id: '31945'
+    url: http://www.gutenberg.org/2009/agents/31945
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Novalis
+    aliases:
+    - Hardenberg, Friedrich, Freiherr von
+    - Hardenberg, Georg Philipp Friedrich von
+    birthdate: *id001
+    deathdate: 1801
+    gutenberg_agent_id: '35529'
+    url: http://www.gutenberg.org/2009/agents/35529
+    wikipedia: http://en.wikipedia.org/wiki/Novalis
+description: ''
+gutenberg_issued: '2010-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31873'
+  lccn: 07001922
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, German -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Germany -- Fiction'
+title: 'Henry of Ofterdingen: A Romance.'
+url: http://www.gutenberg.org/ebooks/31873
