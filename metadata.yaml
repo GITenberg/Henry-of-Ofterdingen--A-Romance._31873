@@ -7,7 +7,7 @@ contributor:
     - Schlegel, Friedrich
     - Schlegel, Karl Wilhelm Friedrich von
     - Von Schlegel, Friedrich
-    birthdate: &id001 1772
+    birthdate: 1772
     deathdate: 1829
     gutenberg_agent_id: '35760'
     url: http://www.gutenberg.org/2009/agents/35760
@@ -28,12 +28,14 @@ creator:
     aliases:
     - Hardenberg, Friedrich, Freiherr von
     - Hardenberg, Georg Philipp Friedrich von
-    birthdate: *id001
+    birthdate: 1772
     deathdate: 1801
     gutenberg_agent_id: '35529'
     url: http://www.gutenberg.org/2009/agents/35529
     wikipedia: http://en.wikipedia.org/wiki/Novalis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31873#Henry-of-Ofterdingen--A-Romance.
 gutenberg_issued: '2010-04-03'
 gutenberg_type: Text
 identifiers:
